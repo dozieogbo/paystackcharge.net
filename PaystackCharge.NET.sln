@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaystackCharge.NET", "PaystackCharge\PaystackCharge.NET.csproj", "{AEF09786-A57D-4773-9584-F740D3374C55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaystackCharge.NET.Demo", "PaystackCharge.Demo\PaystackCharge.NET.Demo.csproj", "{F92781BF-B575-4023-92BC-561648CCBCF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEF09786-A57D-4773-9584-F740D3374C55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEF09786-A57D-4773-9584-F740D3374C55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEF09786-A57D-4773-9584-F740D3374C55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEF09786-A57D-4773-9584-F740D3374C55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F92781BF-B575-4023-92BC-561648CCBCF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F92781BF-B575-4023-92BC-561648CCBCF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F92781BF-B575-4023-92BC-561648CCBCF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F92781BF-B575-4023-92BC-561648CCBCF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
